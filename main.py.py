@@ -96,9 +96,8 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     else:
         welcome_message = """🚀 Welcome to the Bot!
 
-⚠️ WARNING: Content
 
-🔞 This bot provides exclusive content for adults only. By continuing, you confirm that you are 18 or older.
+this bot provides the link to your media files which you can share to ur channel easily.
 
 📌 Join now: [Click Here]"""
         await update.message.reply_text(welcome_message, parse_mode="Markdown", disable_web_page_preview=True)
