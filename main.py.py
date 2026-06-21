@@ -136,7 +136,7 @@ async def handle_media(update: Update, context: ContextTypes.DEFAULT_TYPE) -> No
         link = f"https://t.me/{bot_user.username}?start={encoded_link}"
 
         media_indicator = f"📸 pic {unique_id}" if file_type == "photo" else f"🎥 video {ideunique_id}"
-        cooked_message = f"🔥 Cooked meth:\n\n{media_indicator}\n\n🔗 LINK: {link}"
+        cooked_message = f"video:\n\n{media_indicator}\n\n🔗 LINK: {link}"
 
         await update.message.reply_text(cooked_message, parse_mode="Markdown")
 
