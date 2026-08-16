@@ -66,6 +66,5 @@ Edit
 
 🎥 video a1b2c3d4
 
-🔗 LINK: https://t.me/YourBot?start=XYZ
-Now, anyone who opens this link will get that video sent to them automatically by the bot.
+
 
