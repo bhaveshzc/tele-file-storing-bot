@@ -1,6 +1,4 @@
 
-NOTE: to get full code contact: bhaveshsb45@gmail.com
-      instagram @bbeditszc 
 
 
 
